@@ -1,3 +1,6 @@
 ## Project Caelus Encoder PCB
 
-![Alt text](img/your-image-name.png)
+![Board](img/Board.png)
+![Diagram](img/Diagram.png)
+![PCB](img/PCB.png)
+
