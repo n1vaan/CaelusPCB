@@ -18,4 +18,11 @@ Today, I completed all the signal and power routing on the PCB. All connections 
 
 ![5/20 Image](img/520Progressimg.png)
 
+### 5/26
+Time Spent: ~1 hour
+Today, I cleaned up and reorganized the PCB layout for better routing and clarity. I rearranged the HT12E/HT12D chips and resistor arrays to simplify connections between the RJ45 ports and ESP32. The power section was tightened up around the XT60 and MOSFET, and routing is now more efficient with fewer vias. Ground fills and labeling are next.
+
+![5/20 Image](img/526Progressimg.png)
+
+
 
