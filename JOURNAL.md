@@ -12,3 +12,10 @@ Today, I finished placing all major components on the custom PCB for our rocket 
 
 ![5/15 Image](img/515Progressimg.png)
 
+### 5/20
+Time Spent: ~1.5 hours  
+Today, I completed all the signal and power routing on the PCB. All connections between the ESP32, RJ45 ports, HT12E/HT12D chips, transistor drivers, and supporting components are now fully traced. I also finalized placement and routing for the resistor networks and MOSFET power stage. The layout is compact and clean, with minimal via usage and clear signal paths. Next, I’ll focus on ground pours, silkscreen adjustments, and a final DRC pass before generating Gerber files.
+
+![5/20 Image](img/520Progressimg.png)
+
+
