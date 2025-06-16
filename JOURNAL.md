@@ -24,7 +24,7 @@ Today, I cleaned up and reorganized the PCB layout for better routing and clarit
 
 ![5/20 Image](img/526Progressimg.png)
 
-## 6/8
+## 6/08
 Time Spent: ~2 hours  
 After a very hectic school schedule, I resumed my project. Today, I added a proper board outline and fit the whole layout into it. Before this, everything was just floating without a defined shape. I also poured the ground plane across the board, which really cleaned up the power and signal return paths, especially around the ESP32 and transistor section. I also tweaked a few traces for better spacing near the HT12 chips and drivers. It’s finally starting to look like a real, finished board. I need to tidy up the silkscreen and run a final DRC check before generating Gerbers.
 
