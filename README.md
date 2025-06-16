@@ -7,3 +7,9 @@ Caelus Rocketry is an aerospace nonprofit consisting entirely of high school stu
 ![Diagram](img/Diagram.png)
 ![PCB](img/PCB.png)
 
+## Bill of Materials (BOM)
+
+| Component                    | Quantity  | JLCPCB Estimate  |
+|------------------------------|-----------|------------------|
+| PCB                          | 1         | $7.90            |
+
