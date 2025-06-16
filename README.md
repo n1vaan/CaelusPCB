@@ -1,4 +1,4 @@
-## Project Caelus Encoder PCB
+# Project Caelus Encoder PCB
 
 ### Project Description
 
