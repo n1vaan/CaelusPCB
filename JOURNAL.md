@@ -5,6 +5,8 @@ description: "PCB for sensor control and communication, used on the first liquid
 created_at: "2025-05-15"
 ---
 
+## Total Time Spent: ~9.5 hours  
+
 ### 5/15
 Time Spent: ~3 hours  
 
