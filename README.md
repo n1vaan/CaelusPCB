@@ -21,5 +21,5 @@ Our previous setup was messy and inefficient; we had to use several long etherne
 
 | Component                    | Quantity  | JLCPCB Estimate  |
 |------------------------------|-----------|------------------|
-| PCB                          | 1         | $7.90            |
+| PCB                          | 1         | $150             |
 
